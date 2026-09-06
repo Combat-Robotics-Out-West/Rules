@@ -64,6 +64,7 @@ While damage is expected in these classes, it is requested that builders remembe
  - Acrylic
  - Cardboard
  - MDF
+ - Plywood
  - Cheap Recycled Goods
 
 Other materials may be permitted if the follow the class intent, confirm with organisers before the event.
