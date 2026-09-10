@@ -3,6 +3,7 @@
 
 robot_construction_rules: Rules specifying what is required to build a robot eligible to compete
 match_rules: Rules specifying how matches are fought and won safely
+custom_control_systems.md: Guidelines for builders looking to develop approvable custom communication systems.
 
 Tournament rules are not standardised at this time and will depend on each event due to time and attendance uncertainties. This may change in the future.
 

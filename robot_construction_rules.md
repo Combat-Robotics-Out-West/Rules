@@ -54,6 +54,8 @@ The spirit of this class is to have an easy entry point for new builders and to 
 
 While damage is expected in these classes, it is requested that builders remember the spirit of the class. Excessively tough or damaging robots may be requested to change class to the open league
 
+Robots deemed to be violating the spirit of the class can be banned at will at any point through an event.
+
 ### Allowed Materials
  - PLA
  - PLA+
@@ -75,13 +77,7 @@ These materials can only be used for weapons
 ### Material Exemptions
 All exempt materials may not be used as armor, impactors, or structural features.
 
- - Electronics
- - Motors
- - Gearboxes
  - Decorations
- - Fasteners
- - Heat Set Inserts
- - Bearings/Bushings
  - Grippy Material for wheel tread or tracks, e.g.
    - O-rings
    - Silicons
@@ -90,8 +86,32 @@ All exempt materials may not be used as armor, impactors, or structural features
  - Ropes, Springs and Elastics
    - For use in actuators or power transmission only
   
+### Hardware
+Hardware should be off the shelf standardised components, typically less than 5aud each, available from common hardware stores or online vendors. Highly specialised components, such as uncommon materials, sizes or tolerances are not allowed.
 
-Abuse of these exceptions (including building overly armoured or damaging robots) will not be tolerated.
+Hardware includes:
+ - Fasteners
+   - Bolts
+   - Nuts
+   - Screws
+   - Washers
+ - Heat Set Inserts
+ - Bearings
+ - Bushings
+
+
+### Components
+Any off the shelf or custom electronics are allowed. Off the shelf motors and gearboxes are permitted, but cannot be modified for performance gains.
+
+
+### Abuses
+Abuse of the exemptions will not be tolerated.
+
+Abuses include but aren't limited to: 
+ - Building overly armoured robots
+ - Building overly tough robots
+ - Building overly destructive robots
+ - Using exmpt materials as ballast
 
 ## 5. Mobility
 1. All robots must have easily visible and controlled mobility in order to compete. Methods of mobility include but are not limited to:
