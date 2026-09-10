@@ -3,14 +3,14 @@
 
 Combat Robotics Out West September 2026 version
 
-**DISCLAIMER: ANY and all ambiguities, loopholes you want to exploit, concerns or questions should be taken up with the very responsive organizers at their main platform of communication discord: TBA**
+**DISCLAIMER: ANY and all ambiguities, loopholes you want to exploit, concerns or questions should be taken up with the organizers**
 
 ## 1. General
-1. All participants build and operate robots at their own risk. Combat robotics is inherently dangerous. There is no amount of regulation that can encompass all the dangers involved. Please take care to not hurt yourself or others when building, testing and competing.
+1. All participants build and operate robots at your own risk. Combat robotics is inherently dangerous. There is no amount of regulation that can encompass all the dangers involved. Please take care to not hurt yourself or others when building, testing and competing.
 
 2. If you have a robot or weapon design that does not fit within the categories set forth in these rules or is in some way ambiguous or borderline, please contact the event organizer. Safe innovation is always encouraged, but surprising the event staff with your brilliant exploitation of a loophole may cause your robot to be disqualified before it ever competes.
 
-3. Each event has safety inspections. It is at their sole discretion that your robot is allowed to compete. As a builder you are obligated to disclose all operating principles and potential dangers to the inspection staff.
+3. Each event has safety inspections. It is at the organisers sole discretion that your robot is allowed to compete. As a builder you are obligated to disclose all operating principles and potential dangers to the inspection staff.
 
 ## 2. Critical Safety Rules
 Failure to comply with any of the following rules could result in expulsion or worse, injury and death.
@@ -22,8 +22,7 @@ Failure to comply with any of the following rules could result in expulsion or w
 
 3. All robots must be able to be FULLY deactivated, which includes power to drive and weaponry, **in under 15 seconds by a manual disconnect**. Examples include a link or power switch. This must be accessible from outside the robot, without obstruction by the weapon. Power switches or equivalents must be rigidly mounted to the robot as to not become inaccessible after a fight.
 
-4. All robots not in an arena or official testing area must be raised or blocked up in a manner so that their wheels or legs cannot cause
-movement if the robot were turned on. Runaway bots are VERY
+4. All robots not in an arena or official testing area must be raised or blocked up in a manner so that their wheels or legs cannot cause movement if the robot were turned on. Runaway bots are VERY
 dangerous.
 
 5. Locking devices: Moving weapons that can cause damage or injury must have a **clearly visible** locking device in place **at all times** when not in the arena. Locking devices must be painted in neon orange or another high visibility color. Locking devices must be clearly capable of stopping, arresting or otherwise preventing harmful motion of the weapon.
@@ -41,8 +40,8 @@ C.R.O.W. events currently support the following weight classes.
 
 | **Rolling**   | **Shufflers** | **Non-Wheeled** |
 | ------------- | ------------- | --------------- |
-| 150g          | 225 g         | 300             |
-| 150g Plastic  | 225 g         | 300             |
+| 150g          | 225 g         | 300 g           |
+| 150g Plastic  | 225 g         | 300 g           |
 
 See Section 5 for definitions of non-wheeled robots and shufflers. 
 
@@ -50,7 +49,7 @@ Robots must show that at least half of the weight bonus applied for is used in m
 
 It is reccommended to confirm with the event beforehand if you intend on applying for a weight bonus.
 
-## 4. Plastic Class.
+## 4. Plastic Class
 The spirit of this class is to have an easy entry point for new builders and to encourage creative designs by limiting materials to accesible and cheap materials, including those commonly used in 3D printers. These materials typically don't have strength characteristics common in the standard classes.
 
 While damage is expected in these classes, it is requested that builders remember the spirit of the class. Excessively tough or damaging robots may be requested to change class to the open league
@@ -92,7 +91,7 @@ All exempt materials may not be used as armor, impactors, or structural features
    - For use in actuators or power transmission only
   
 
-Abuses of these exceptions (including building overly armoured or damaging robots) will not be tolerated.
+Abuse of these exceptions (including building overly armoured or damaging robots) will not be tolerated.
 
 ## 5. Mobility
 1. All robots must have easily visible and controlled mobility in order to compete. Methods of mobility include but are not limited to:
@@ -131,11 +130,11 @@ Abuses of these exceptions (including building overly armoured or damaging robot
 6. If you are using a home built control system, or a control system not covered here, you must first clear it with the event you plan to
 attend.
 
-7. Toy radio systems are sometimes allowed at events for robots with no active weapons. Check with the Event Organiser
+7. Toy radio systems are sometimes allowed at events for robots with no active weapons. Check with the Event Organiser.
 
-8. RC systems on the AM band are sometimes allowed at events for robots up to 12 lbs with no active weapons.
+8. RC systems on the AM band are sometimes allowed at events for robots with no active weapons.
 
-9. Bluetooth control is not allowed for a robot with a spinning weapon
+9. Bluetooth control is not allowed for a robot with a spinning weapon.
 
 ## 7. Autonomous/Semi-Autonomous Robots
 Any robot that moves, seeks a target, or activates weapons without human control is considered autonomous. If your robot is autonomous you are required to contact the event before registration. 
@@ -191,7 +190,7 @@ The following are not allowd:
  - Fuels
    - This includes anything intended to burn. Intentional fires are not allowed.
 
-## 13. Forbidden Weapons and Materials. 
+## 13. Forbidden Weapons and Materials
 The following weapons and materials are absolutely forbidden from use:
 
 1. Weapons designed to cause invisible damage to the other robot. This includes but is not limited to:
@@ -208,7 +207,7 @@ by being wrapped around rotating parts. This includes:
 3. Weapons or defenses that that can reasonably be expected to stop combat completely of both (or more) robots.
 
 4. Weapons that require significant cleanup, or in some way damages the arena to require repair for further matches. This includes but is not limited to:
-   - . Liquid weapons. Additionally a bot may not have liquid that can spill out when the robot is superficially damaged.
+   - Liquid weapons. Additionally a bot may not have liquid that can spill out when the robot is superficially damaged
    - Foams and liquefied gasses
    - Powders, sand, ball bearings and other dry chaff weapons
    - Weapons that excessively damage the floor or external walls of the arena
@@ -223,7 +222,7 @@ by being wrapped around rotating parts. This includes:
      - Cartridge Primers
      - Military Explosives
 
-7. Light and smoke based weapons that impair the viewing of robots by an Entrant, Judge, Official or Viewer. (You are allowed to physically engulf your opponent with your robot however.) This includes, but is not limited to the following:
+7. Light and smoke based weapons that impair the viewing of robots by an Entrant, Judge, Official or Viewer. You are allowed to physically engulf your opponent with your robot however. Weapons banned under this category includes, but is not limited to the following:
     - Smoke weapons
     - Lights such as external lasers above 'class I' and bright strobe lights which may blind the opponent.
 
