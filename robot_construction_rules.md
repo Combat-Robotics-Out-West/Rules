@@ -117,24 +117,14 @@ Abuse of these exceptions (including building overly armoured or damaging robots
 2. To demonstrate mobility, robots must be able to drive from one corner of the arena, to the opposite corner and return within 20 seconds. Exemptions may be granted on a case-by-case basis.
 
 ## 6. Robot control requirements
-1. Tele-operated robots must be radio controlled, or use an approved custom system as described in 6.6. Radio controlled robots must use approved ground frequencies, typically 900MHZ or 2.4GHZ in Australia.
+1. The communication system must stop all motion in the robot (drive and weapons), when the transmitter loses power or signal are required.
 
-2. Tethered control is not allowed.
+2. Every robot must use an approved protocol. Currently approved off the shelf are:
+ - AFHDS 2A
+ - ELRS
+ - DSMX
 
-3. Pre 1991 non-narrow band radio systems are not allowed.
-
-4. Radio systems that stop all motion in the robot (drive and weapons), when the transmitter loses power or signal are required.
-
-5.  All robot radio systems must have a way to change frequencies or coded channels to prevent radio conflicts. Having at least **two** frequencies or coded channels available is **required**. Lack of extra frequencies may result in a forfeit. Digital spread-spectrum radios that use frequency hopping or automatic channel selection qualify under this rule. Modern systems usually do this automatically.
-
-6. If you are using a home built control system, or a control system not covered here, you must first clear it with the event you plan to
-attend.
-
-7. Toy radio systems are sometimes allowed at events for robots with no active weapons. Check with the Event Organiser.
-
-8. RC systems on the AM band are sometimes allowed at events for robots with no active weapons.
-
-9. Bluetooth control is not allowed for a robot with a spinning weapon.
+3. Custom systems may be approved on a case by case basis. See [custom_control_systems.md](custom_control_systems.md) for guidance
 
 ## 7. Autonomous/Semi-Autonomous Robots
 Any robot that moves, seeks a target, or activates weapons without human control is considered autonomous. If your robot is autonomous you are required to contact the event before registration. 
