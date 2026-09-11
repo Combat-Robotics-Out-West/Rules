@@ -22,17 +22,3 @@ Rules are originally based on multiple sources, including but not limited to:
 
  Interpretations and ruling on specific applications from these rulesets are not guaranteed to be accepted at C.R.O.W. events.
 
- # Contributing Guidelines
- We welcome updates, but if you would like rules changed please communicate in the discord so we can sort out the details. Once the gist is done, follow these steps for changes to be merged into the full rules:
-
- 1. Fork the main rules [repository](https://github.com/Combat-Robotics-Out-West/Rules) or ensure your fork has the up to date main rules.
-
- 2. Make you're changes on your fork
-
- 3. Get feedback from the discord on your proposed changes
-
- 4. Pull request your changes
-
- 5. 2 Event Organisers will approve the rule changes
-
- 6. An announcement about the rules being changed will be posted automatically
