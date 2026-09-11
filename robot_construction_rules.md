@@ -101,7 +101,7 @@ Hardware includes:
 
 
 ### Components
-Any off the shelf or custom electronics are allowed. Off the shelf motors and gearboxes are permitted, but cannot be modified for performance gains.
+Any off the shelf or custom electronics are allowed. Off the shelf motors and gearboxes are permitted, but cannot be modified other than wiring.
 
 
 ### Abuses
