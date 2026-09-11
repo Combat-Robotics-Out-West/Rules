@@ -126,7 +126,7 @@ In a rumble any robots entering the area will be eliminated from the rumble and 
 
 2. After the allotted time has elapsed, the robot in control must release the opposing robot. If the robot in control is not able to release the opposing robot then the match will be halted and the robots will be separated, and counts as an un-stick.
 
-3. is defined as complete physical separation such that both robots are able to freely move away from their current location.
+3. Release is defined as complete physical separation such that both robots are able to freely move away from their current location.
 
 4. Refusal to comply with the referee's request to release the opponent when the robots are not stuck together will result in forfeit of the match.
 
