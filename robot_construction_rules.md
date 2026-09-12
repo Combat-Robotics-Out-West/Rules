@@ -52,7 +52,7 @@ It is reccommended to confirm with the event beforehand if you intend on applyin
 ## 4. Plastic Class
 The spirit of this class is to have an easy entry point for new builders and to encourage creative designs by limiting materials to accesible and cheap materials, including those commonly used in 3D printers. These materials typically don't have strength characteristics common in the standard classes.
 
-While damage is expected in these classes, it is requested that builders remember the spirit of the class. Excessively tough or damaging robots may be requested to change class to the open league
+While damage is expected in these classes, it is requested that builders remember the spirit of the class. Excessively tough or damaging robots may be requested to change class to the open league.
 
 Robots deemed to be violating the spirit of the class can be banned at will at any point through an event.
 
@@ -87,7 +87,7 @@ All exempt materials may not be used as armor, impactors, or structural features
    - For use in actuators or power transmission only
   
 ### Hardware
-Hardware should be off the shelf standardised components, typically less than 5aud each, available from common hardware stores or online vendors. Highly specialised components, such as uncommon materials, sizes or tolerances are not allowed.
+Hardware should be off the shelf standardised components, typically less than 5 AUD each, available from common hardware stores or online vendors. Highly specialised components, such as uncommon materials, sizes or tolerances are not allowed.
 
 Hardware includes:
  - Fasteners
@@ -111,7 +111,7 @@ Abuses include but aren't limited to:
  - Building overly armoured robots
  - Building overly tough robots
  - Building overly destructive robots
- - Using exmpt materials as ballast
+ - Using exempt materials as ballast
 
 ## 5. Mobility
 1. All robots must have easily visible and controlled mobility in order to compete. Methods of mobility include but are not limited to:
@@ -125,7 +125,7 @@ Abuses include but aren't limited to:
         - Melty brains
    - Shufflers
       - Examples Include:
-        - CAM operated linkeges
+        - Cam-operated linkeges
         - Hovercraft
    - Non-wheeled / Walking: 
       - Non-wheeled robots have no rolling elements in contact with the floor and no continuous rolling or cam operated motion in contact with the floor, either directly or via a linkage. Motion is "continuous" if continuous operation of the drive motor(s) produces continuous motion of the robot. To obtain the non-wheeled weight bonus the locomotion mechanism must have at least two non-continuous degrees of freedom.
