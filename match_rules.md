@@ -32,7 +32,7 @@ At the end of the fight both robots are to cease movement and, if applicable, al
 2. Demonstration of weapon system functionality will be done by the robot returning to its starting location and briefly applying power to the weapon system to show that it is still operational. The robot will not spin to full speed during this demonstration.
 Once this is completed the robot deactivation and load out procedure can begin.
 ## Bot Deactivation and Load Out:
-Priority for load in is most to least dangerous:
+Priority for load out is most to least dangerous:
 
 1. Transmitter is turned off
 
